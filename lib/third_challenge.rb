@@ -11,10 +11,13 @@ def third_challenge
         {name: "Benvolio", age: "17", attitude: "worried"},
         },
       {name: "Mercutio", age: "18", attitude: "hot-headed"}
-      :hero => {
-        },	     :capulet => {
-      :hero_friends => []	        :patriarch => {name: "Lord Capulet", age: "50"},
-   }, 	        :matriarch => {name: "Lady Capulet", age: "51"},
+      
+      
+      
+      :capulet => {
+      :hero_friends => []
+      :patriarch => {name: "Lord Capulet", age: "50"},
+      :matriarch => {name: "Lady Capulet", age: "51"},
    :capulet => {	        :heroine => {name: "Juliet", age: "15", status: "alive"},
       :patriarch => {	        :heroine_friends => [
         #your key/value pairs here	            {name: "Steven", age: "30", attitude: "confused"},
