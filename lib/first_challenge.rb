@@ -11,6 +11,7 @@ def first_challenge
         :age => "50"
       }
     }
+  }
 end
 
 
